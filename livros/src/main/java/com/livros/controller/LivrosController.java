@@ -24,5 +24,4 @@ public class LivrosController {
     Optional<Livros> encontrarLivro(String codigo) {
         return service.findByCodigo(codigo);
     }
-
 }

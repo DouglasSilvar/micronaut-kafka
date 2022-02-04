@@ -3,7 +3,6 @@ package com.contador.service;
 import com.contador.model.Contador;
 import com.contador.model.Livros;
 import jakarta.inject.Singleton;
-
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

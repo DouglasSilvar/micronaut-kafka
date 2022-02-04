@@ -1,3 +1,1 @@
-micronaut:
-  server:
-    port: 8081
+micronaut.server.port: 8081
